@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65531e58c8a6d8a5b533435a"
+  },
+  "proID": "p00001",
+  "proName": "ดินสอ",
+  "proPrice": "5.50",
+  "proQuan": "100"
+},
+{
+  "_id": {
+    "$oid": "6553201cc8a6d8a5b533435b"
+  },
+  "proID": "p00002",
+  "proName": "ไม้บรรทัด",
+  "proPrice": "5.75",
+  "proQuan": "99"
+},
+{
+  "_id": {
+    "$oid": "6553201cc8a6d8a5b533435c"
+  },
+  "proID": "p00003",
+  "proName": "ยางลบ",
+  "proPrice": "5.50",
+  "proQuan": "100"
+}]
